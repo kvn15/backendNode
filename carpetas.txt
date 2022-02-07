@@ -1,0 +1,11 @@
+controller => archivos controladores 
+
+helpers => se agrega archivo que codifica los tokens y generar
+
+middlewares => archivo que verificara cada token (si existe o no, si es valido o no)
+
+model => archivos modelos
+
+routes => tendra las rutas de nuestra API
+
+uploads => se subira archivos , imagenes, etc.

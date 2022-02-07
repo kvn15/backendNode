@@ -1,0 +1,26 @@
+bcrypt-nodejs => Sirve para encryptar contraseñas de usuarios
+
+body-parser => nos sirve para poder parsear y obtener informacion de una peticion post(nos parsea la data y obtener la informacion en formato json)
+
+connect-multiparty => sirve para guardar recursos imagenes , videos , etc
+
+express => framework de nodejs
+
+moment => manejador de fechas
+
+mongoose => nos da un modelado del MONGODB para utilizarlo en el backend
+
+jsonwebtoken => nos va a permitir generar un token con la informacion del usuario
+
+jwt-simple => decodifica los token y verifica si es valido
+
+--save-dev => significa en modo desarrollo (cuando lo subamos a produccion este paquete no se subira)
+
+npm install --save-dev nodemon => cuando se cambie el backend, automaticamente se actualiza (obligatorio)
+
+
+//DEPENDENCIAS PARA EXPORTAR EXCEL ANGULAR
+
+npm i exceljs
+
+npm i file-saver
